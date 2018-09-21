@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * 単純な条件一致の抽出
+ * limit により、抽出する数を制御
  */
 public class Limit {
     public static void main(String[] args) {

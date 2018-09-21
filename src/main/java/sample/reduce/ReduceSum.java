@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * 単純な条件一致の抽出
+ * reduce を使った合計算出
  */
 public class ReduceSum {
     public static void main(String[] args) {
