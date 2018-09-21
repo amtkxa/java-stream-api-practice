@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * 単純な条件一致の抽出
+ * filter を使った絞り込み
  */
 public class Filter02 {
     public static void main(String[] args) {

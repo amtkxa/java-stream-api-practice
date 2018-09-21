@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * 単純な条件一致の抽出を行い、List形式にて返却するサンプルコード（Integer）
+ * filter を使った絞り込みを行い、List形式にて返却するサンプルコード（Integer）
  */
 public class FilterCollect02 {
     public static void main(String[] args) {
